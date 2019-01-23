@@ -3,7 +3,7 @@ Json dosyası üzerinde kolay işlem yapılmasını sağlayan PHP sınıfıdır.
 <br /><br />
 ## Örnek
 ### php
-```
+```php
 <?php
 // Dosya ekleniyor.
 include("lib/class.json.php");
